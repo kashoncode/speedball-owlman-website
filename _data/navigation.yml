@@ -1,6 +1,18 @@
+- name: Home
+  link: /
+- name: Football
+  link: /football/
+- name: Gym
+  link: /gym/
+- name: Opening Times
+  link: /openingtimes/
 - name: Blog
   link: /blog/
-- name: About
-  link: /about/
-- name: Contact
-  link: /contact/
+- name: Events
+  link: /events/
+- name: Offers
+  link: /offers/
+- name: About Us
+  link: aboutus
+- name: Gallery
+  link: /gallery/
