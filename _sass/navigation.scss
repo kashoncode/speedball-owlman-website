@@ -23,8 +23,6 @@ nav {
 	position: relative;
 	top: -7px;
 	text-shadow: none;
-	font-style: normal;
-    color: #fff;
 
 	@media #{$mid-point} {
 		padding: 0 20px;
@@ -37,6 +35,8 @@ nav {
 		padding: 14px 10px;
 		border: 0;
 		display: none;
+		font-style: normal;
+        color: #fff;
 
 		@media #{$mid-point} {
 			display: inline;
