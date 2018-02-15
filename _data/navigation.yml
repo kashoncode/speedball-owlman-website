@@ -12,7 +12,7 @@
   link: /events/
 - name: Offers
   link: /offers/
-- name: About Us
-  link: aboutus
+# - name: About Us
+#   link: aboutus
 - name: Gallery
   link: /gallery/
