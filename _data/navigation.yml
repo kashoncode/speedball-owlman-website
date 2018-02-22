@@ -16,3 +16,5 @@
 #   link: aboutus
 - name: Gallery
   link: /gallery/
+  - name: Contact US
+  link: /contact/
