@@ -107,6 +107,11 @@ header {
 		max-height: 650px;
 }
 
+.contract-half img {
+    -webkit-filter: contrast(50%); /* Safari 6.0 - 9.0 */
+    filter: contrast(50%);
+}
+
 .info {
 	padding: 0 0 100px 0;
 
