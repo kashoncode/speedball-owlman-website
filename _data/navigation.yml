@@ -10,8 +10,8 @@
   link: /blog/
 - name: Events
   link: /events/
-- name: Offers
-  link: /offers/
+#- name: Offers
+#  link: /offers/
 # - name: About Us
 #   link: aboutus
 - name: Gallery
