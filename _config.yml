@@ -86,6 +86,13 @@ defaults:
         height: 1322
         resize_style: cover
 
+  -
+    scope:
+      path: ""
+      type: "gallery"
+    values:
+      layout: "staff-member"
+
 # -----------
 # CloudCannon
 
