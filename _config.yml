@@ -39,7 +39,7 @@ exclude:
   - LICENCE
 
 collections:
-  staff_members:
+  gallery:
     _hide_content: true
 
 paginate: 10
