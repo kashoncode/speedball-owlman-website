@@ -1,7 +1,6 @@
 ---
-name:
-position:
+title:
 image_path:
-twitter_username:
-blurb:
+link:
+description:
 ---
