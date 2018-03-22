@@ -16,9 +16,9 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: Speedball Bradford
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - http://speedball-bradford.co.uk
 
 # -----
 # Build
@@ -109,5 +109,5 @@ social_icons:
   - RSS
 
 _comments:
-  description: Text shown when sharing on social media
-  blurb: Short bio or description of this person
+  description: Speedball Bradford
+  blurb: Speedball Bradford
