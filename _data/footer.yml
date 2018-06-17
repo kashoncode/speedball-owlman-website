@@ -1,8 +1,18 @@
 left_links:
+  - name: Home
+    link: /
+  - name: Football
+    link: /football
+  - name: Gym
+    link: /gym/
+  - name: Opening Times
+    link: /openingtimes/
   - name: Blog
     link: /blog/
-  - name: About
-    link: /about/
+  - name: Events
+    link: /events/
+  - name: Gallery
+    link: /gallery/
   - name: Contact
     link: /contact/
 right_links:
